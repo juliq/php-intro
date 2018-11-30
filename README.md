@@ -26,3 +26,5 @@ Open terminal in that folder, type ```php -S localhost:8000```  You should see H
 
 ## Next steps
 The next steps for me, for learning PHP, will be to delve further into creating an app and looking more closely at how PHP is used to build WordPress themes and plugins.
+
+Link to my github repo: https://github.com/juliq/php-intro
